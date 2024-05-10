@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.PrintStream;
 
 public class Palindromo {
-    
+    //Detector de palíndromo
     public static void main(String[] args) {
         PrintStream saida = System.out;
         
